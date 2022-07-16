@@ -20,6 +20,30 @@ class Footer extends Component {
           <div className="row">
             <div className="col social-links">{networks}</div>
             <div className="col">
+              <div 
+                onClick={() =>
+                  this.props.applyPickedLanguage(
+                    window.$primaryLanguage,
+                    window.$secondaryLanguageIconId
+                  )
+                }
+                style={{ display: "inline" }}
+              >
+          
+              </div>
+              <div 
+                onClick={() =>
+                  this.props.applyPickedLanguage(
+                    window.$secondaryLanguage,
+                    window.$primaryLanguageIconId
+                  )
+                }
+                style={{ display: "inline" }}
+              >
+               
+              </div>
+            </div>
+            <div className="col">
               <div className="copyright py-4 text-center">
                 <div className="container">
                   <small>
