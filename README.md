@@ -1,3 +1,3 @@
-# Modify this portfolio
+# My coding portfolio
 
-Make it your own! 
+[Deployed site via Netlify](https://mnmason86code-folio.netlify.app/)
