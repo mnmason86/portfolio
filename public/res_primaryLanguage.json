@@ -73,37 +73,34 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Software Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developement Student",
+        "years": "04.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Java"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Treasure Coast Classical Academy",
+        "title": "Teacher",
+        "years": "07.2019 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          "K-12 Music"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Planning",
+          "Time Management",
+          "Communication",
+          "Leadership",
+          "Hardware Troubleshooting"
         ]
       }
     ]
