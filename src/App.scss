@@ -77,7 +77,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#f8f4f8, 0.75);
+	background-color: transparentize(#955BA5,.2);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -391,7 +391,9 @@ header h1 {
 }
 
 #skills {
-	background: #955BA5;
+	background-image: url('../public/images/Beach1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
